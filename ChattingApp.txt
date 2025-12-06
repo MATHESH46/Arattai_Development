@@ -11,3 +11,7 @@ Author : Mathesan M
 4. Attachments (Image, Videos, Documents)
 
 5. Hiding the last seen
+
+6. Audio call feature
+
+7. Video call feature
