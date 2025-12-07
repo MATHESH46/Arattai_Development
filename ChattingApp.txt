@@ -18,6 +18,4 @@ Author : Mathesan M
 
 8. call recording feature
 
-9. Group feature will be useful to create a group with max 100 users
-
-
+9. User can a create group with 200 users
