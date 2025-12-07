@@ -15,3 +15,5 @@ Author : Mathesan M
 6. Audio call feature
 
 7. Video call feature
+
+8. Group feature will be useful to create a group with max 100 users
